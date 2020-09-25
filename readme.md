@@ -1,4 +1,4 @@
-# This example shows how to calculate the distance between two markkers or locations (latitude,longitude)
+# This example shows how to calculate the distance between two markers or locations (latitude,longitude)
 
 Click on the map to add a marker. Once you have added two markers, the great circle distance between them will be logged to the console. You can add additional makers and the distance between the last two markers will be logged. This project uses the [HERE Maps API for Javascript](https://developer.here.com/documentation/maps/3.1.19.0/dev_guide/index.html).
 
