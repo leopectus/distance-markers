@@ -1,7 +1,7 @@
-# A Simple Base Map Using the HERE JavaScript API 3.1
+# This example shows how to calculate the distance between two markkers or locations (latitude,longitude)
 
-This is clean project displaying a map which I often use as a base for prototyping. I mostly have this here so I can clone it for myself whenever I want to start something new.
+Click on the map to add a marker. Once you have added two markers, the great circle distance between them will be logged to the console. You can add additional makers and the distance between the last two markers will be logged. This project uses the [HERE Maps API for Javascript](https://developer.here.com/documentation/maps/3.1.19.0/dev_guide/index.html).
 
-> **Note:** In order to get the sample code to work, you **must** replace the `apiKey` strings during platform setup with valid HERE developer credentials.
+> **Note:** In order to get this code to work, you **must** replace the `apiKey` strings during platform setup with valid HERE developer credentials.
 
 > You can obtain a set of credentials by signing up for a [Free Account](https://developer.here.com/sign-up?create=Freemium-Basic&keepState=true&step=account) on [developer.here.com](https://developer.here.com/).
